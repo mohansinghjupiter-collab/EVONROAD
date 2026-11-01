@@ -1,1 +1,279 @@
-{ "updated": null, "india": [], "global": [], "upcoming": [] }
+{
+  "updated": "2026-11-01T15:05:23.126474+00:00",
+  "india": [
+    {
+      "title": "India posts 223,886 October electric 2-wheeler registrations, EV share dips",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUTJWZUhRTTRmMXBnWF9MdDc5SjFUVjRoc3hrUGZrRWFkbDQxU2dPNHhwbmxoT214MEJ3UEdkc3U1WDZVY0c0WGxsZlhmaDl4MFQ1Y0ZyTG9Dd1VKTUJEUXJteHhaXzRFdXZVRElvSzB0MFY3a3YyMkpHY3dqazdPN3ZmSTZqQjhrUy1Sdjg3UEY3TmowUElWQm41dlNfU0UycU1jaXdYakU3ZndRbGRLdTdNMkdocHBv?oc=5",
+      "source": "NewsBytes",
+      "published": "2026-11-01T13:53:01+00:00"
+    },
+    {
+      "title": "Tata Punch EV Creates History: First Electric Car in India to Cross 5,000 Monthly Sales",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56V20wQWVpcjFWcldOM09mckt3bWk1dzJtdXVIbXdlR1Z5Z0FhbmwzeDhmM3RWd0NLcjlDTmI2STFpQXlEV1ZqZUl5R1JIdzVpZVNqSzdvU1VEcW5jbWNvZ2p5dnMzMUNzTW1meGhJMENQRkpsZkMwVVlR?oc=5",
+      "source": "Autopunditz",
+      "published": "2026-11-01T12:38:18+00:00"
+    },
+    {
+      "title": "Top 5 EVs Under Rs 15 Lakh in India",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGU0RENNTnVvRE1MeGVWYktZSE5hOGdBVDIzZEdrVWN2Wk1uQ1JGRkk5S3FqZl9mTl82eFp6VEpoRTQtOENNQWczR1F4RHUyeHlQcjJoYUZEeEt3U2VLcnh6ZGszaWw1ZEdyOWluRzZEWE1XLXF5eFZXZHVBRXFiZGhpNDlfZw?oc=5",
+      "source": "autoX",
+      "published": "2026-11-01T10:30:00+00:00"
+    },
+    {
+      "title": "Tata Punch.EV Becomes First Electric Car To Cross 5,000 Monthly Sales Mark",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1ZILXRVLWUyTWZDLXJtY0FVN2ZBWllTWEljX085cVFWb0VXeEY4eHFZVmtRUHpTbDQ4TTRZNEZ4N3NWM256djFFbUpKNDc1ZkxLUTVacGtiOGZqTXhXalIyMUo0M1o0Ti1LaF9IRG5UUE9nSEZ2NlRZQ2ExMkhFZw?oc=5",
+      "source": "Cartoq",
+      "published": "2026-11-01T10:24:29+00:00"
+    },
+    {
+      "title": "Indian Bank Bets Big On EV Infrastructure, Targets Rs 100 Crore Loans: MD Binod Kumar",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVmFUUndvQWR5YlRJc0xGY1BUM1dSdjVvNzlkOXZfV1BadHJsY1VuQmxiaTNiNVVaZEJEV21XYVhfYlNYVzVaZzBkLXhIaDRDUW9ySGZST0ZkNXBZNHBQbjNuY2RjeUEwUFVkVGVqZ2FuSFFZTU5iNUI3S2RCcF8yZE1BR0VuNjFzRzFjR2lLQ3BjQmxuU05USWJHRURrMVhIdlotemp3d3lfYkJ3QUtfZlJZLUlKWlR3OG9GMkZHOGo0Z0RMOVVqOEFlcU9DalVPakl0WlBUNnBnaWdOaGxPRXVOdmowN0FUNmJR0gHwAUFVX3lxTE1QelN4VjcwMDFBWkowejdxWXJMZlB0Yzg3TU9FdTh6ZnA5ell0c3B2YzN1dEVycXlUTUN5WFhkMkRiT0pUWU5CQXpCalNmenphWGdqT2kwNC0waWRCNVJlMy05YzhaX25pc2tDdlBpU2NsRi1hYU9JMHI5WDJvSDZ3WFVrcWJVbE5vQzBpZlJHaUhUOUE5a3ZBS3lpNzdGZ3RVbUg0cEpuZlVrNEJGUzJCVnZRTnFOTXBsNE1oYUFPT3RPTjI1dmlta3Q2Qlg5YTIxbjVSeFVVZk1qckUzRWR5VUsxM3FGeG5lQVZNaW5mSg?oc=5",
+      "source": "Times Now",
+      "published": "2026-11-01T09:32:47+00:00"
+    },
+    {
+      "title": "Tata Motors passenger vehicle sales rise 23% in October, EV sales jump 75%",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeDduOV9RZ193UnJfc2RLeFpGcjlFcGM4Skpoc2xSTk1UQ3I1VGlOaDZDLW5RRlllX0tIakdMOFZSUE5UWEN2WGM3cFVxOXJQMDFjV05SVktCbUpycm9PYlJFU1BQMTRLYUJFQ080dWRaTnFZNVFjLTNjdG1GMmpaTU90UVVWZXlTbWdWZFI1SzNITnctTG02Q3NNS2tEckJYLVRFUGF3VXNEbHhRNU80cXY0aXhTdlMzX2t1Q0hqdw?oc=5",
+      "source": "ANI News",
+      "published": "2026-11-01T09:02:00+00:00"
+    },
+    {
+      "title": "Tata Motors October 2026 Sales Rise 23% to 75,426 Units; EV Volumes Jump 75%",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVE9RcjJmdGNkWkJTZjQyQ1ZyOHE1UWdRTmx3S0Vmb1BGRmhNaTdYd2hWVFc5SmdybzIzTGlfQ2owVWVpTWQ4TUJ1Z3p3UExRTC0xVUtBRzJlZnhxVVN0T01VUHlOTmx6aXBJOWlsM2lSaWNrZkE?oc=5",
+      "source": "Auto India Daily",
+      "published": "2026-11-01T08:03:16+00:00"
+    },
+    {
+      "title": "Tata Motors PV sales rise 21% to 73,894 units in October, EV logs 75% growth",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFB4c0ZhTGlLUlU0MDRxX2NDcUlNVkJQRjdrRzhkamY3TlYwUXdyZ3NKWFdKMVBRMU1NZnE0dml5NVpTRG11cExwZ01fck8zUGNKdlhaWjR6NHMyeEE0bnI5SUtFaDJUMmdHYWV6YTdwblNIcGNHb3BKNzFVMUlIQmVxLUp4RE1wa1lZMWVyQ0lBRkdWRHpsc21ld2hqUTRBNF82RFFqcGtxdmVtY0ZsTEUzWkNHeE1TVWlRTW1BLVhXLXI2OTl6YW00R1liN3VDOWRKM3FQMVYwbG9UTTVKeNIB5gFBVV95cUxQZVFkQXhvdS1HWWN4YXY0OU1MS1ZERzk3SVJ3MWJFZHJHVzdQejF0S19fbXZGYlFNTmx5Y2FIMmxTMUVOZlVxRnRiNjZ4T25LMEl6Sm5OXzBDLUpmVDB2NzFpNGVZb2hQSWgydEtFQXNfMnlYdTFwb0lHMFRBdmVoSllnQi1ySUR4TmZKeGZZeU9DVkRCWVQ1eTZqdmVMWTBTOENMV2xSNGJaeE5iSnNyY2V4Sk91bW5YRTJxSEhxUkg4R1dQS3B0aXBoelhuWUpuOVRmUlpWQ0pYdVNaMTVNNGRaOF9NQQ?oc=5",
+      "source": "ET Auto",
+      "published": "2026-11-01T07:37:13+00:00"
+    },
+    {
+      "title": "New Indian Air Force Chief Takes the Green Route, Switches to Electric Vehicle | Videos",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeUNYbFVFX2FRR3ZwUEF5aVhqUDRqVEVIS01hMXR1YU1OWFp1Vmp6d0hRdkxpbVFWYmwxNFpTeTFvNkpwZFdmUDlneC1xNHlJV0dKLVFudXZRTExmbmZZOUVRZnF0RXY4eVJHT2x1U3NRUUx5dU44d1dpd1FNc0lKY2hjdGdKanZ5N0ZZQ3RuOVBlLXl5U0VmS2Zia2E3RDIzTmJBQ1hUMElnS29lV19pOXFOczlfT2p0TE9tRmdpRXNfZ2NXeUV2XzJsZ1YzZjJSaXfSAdcBQVVfeXFMT084ZXB1UGdWMFRPTnhuandmY1QycTNydDJtbGgzbVNFeEtydmt5VW90MnlocnhRcHU5dG5MTGlqM3MzZGlHeUN6d05XS2k1ZmhnaUN6amJiLXQ3UmY4Z3BjZi1xeG5KOFBJS0tKV3BwRmZoYnZYVGlyOHM5NlZZcFpxeEg0dkRlZ1R5MER1WUsyeTJNSU5OM1pnZUdld0Q3alZaQXZEbkZaUTBkeEtfYXBkdEVMMGhXUFE2Z3laVV9VWXVmeDBWcUZybmZuSkRHaEdYaEltSjA?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-11-01T06:59:48+00:00"
+    },
+    {
+      "title": "Mahindra BE 07 Spotted Charging",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CLVNSNHBJNFhtZC1yMnNvX3BsY2xTREpVNnlmVmUxMUpJX21YMm1JdFBJMlpwa3kwc2dKQ09jN3hKN09YV2d2b0F6SWZldWx6aS1WZXlHeWxVajBIMDVMc1RLQzJLVlZuYUdYeF9B?oc=5",
+      "source": "CarWale",
+      "published": "2026-11-01T06:24:51+00:00"
+    },
+    {
+      "title": "Indian Bank targets Rs 100 cr lending under EV charging scheme in FY27: MD",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWEFUTFJka19CVUkwZkk1U29YdHJsUE5jRVZfSVlnZEp3X0JabEpSQ1R5cU1hdy1xLXdrN0R3SWNmaldweHZOVVVMWlFmcW1RQUlid29JWXg4Q3RFQzhVc1JKR3FfSldZelc5bnRTQWdYS2duWS1HWk5rY3hQSkF0M0hIbFdtWmwyYnZLeFAwRnRidG01MFJlWjNSalVieVV4SWs1bkdlenlWYlhjOF9hQzgtM0JhbnZnYXhuRDJRbG9IcEZIcEEtWU8tc1ZtSElPd3JIVEFUdC1KM29iY196SGhQT3FGMWxFaTdNVURTXzNPbUhCYTFsdHk5enZ0QWRR0gGGAkFVX3lxTE1qY25OX3JUNlNNeFdaUTltenN4eVo0RWFORDdiWTY3dWZ5WGdLSmZTZ05Kb3A2SGRZRGFIdmNzTUU5dk5qTHczWlZiX0tBQTAzQTMyZ3I3VjlDbFJWVzNmTkpIZEd1TnNPNGF2dk5EYXQtQ3RhMkZ0ekdCYWhRbVlET1RNUWdKQk1XVlJTNFBNUXJHSWJiNldqU3RQcUY0MVA1eldMUm1tZkVHeTlBdXdQLUF6aDc1alF2dkVjeTlGWU1UdjJRaWMxQXlMWTVEMGw2dW5IZkxqTXdvUlV1V3c4cWhqWjFJaXVmOXQtRWVaTnR2OUJQcGxVamt2MUdubEVZQXVLUkE?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-01T06:05:39+00:00"
+    },
+    {
+      "title": "Indian Bank targets ₹100 crore lending under EV charging scheme in FY27: MD",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUzcyakJxbUpPcTBja3ZxNVNNeURfVzd4NWpXbGdIYVVDX25iZHlIR1IweU92UW4yU2w1R2M5SHp3dW1ORHhlSmFnVXM3SFFKLVp5enNvZERFUXAyMDllbW9lZzdIMlNJVGVVSVdYMk94YUdFMmE1Yk1VVWVka3hpMDJUNHk5TmhKeTZrS1hWNl9nbTV1WUpfd2lPRXZxdVd6Qm1VZjlybF8tNWJKcTgzcUVLejRyQ2dFWUJDR0ZPb0FESDlUek41SG5ndmZuOTBhaDZMaTJOTVp4NDJmSWfSAd4BQVVfeXFMT1M3MmpCcW1KT3EwY2t2cTVTTXlEX1c3eDVqV2xnSGFVQ19uYmR5SEdSMHlPdlFuMlNsNUdjOUh6d3VtTkR4ZUphZ1VzN0hRSi1aeXpzb2RERVFwMjA5ZW1vZWc3SDJTSVRlVUlXWDJPeGFHRTJhNWJNVVVlZGt4aTAyVDR5OU5oSnk2a0tYVjZfZ201dVlKX3dpT0V2cXVXekJtVWY5cmxfLTViSnE4M3FFS3o0ckNnRVlCQ0dGT29BREg5VHpONUhuZ3ZmbjkwYWg2TGkyTk1aeDQyZkln?oc=5",
+      "source": "Business Standard",
+      "published": "2026-11-01T05:30:40+00:00"
+    },
+    {
+      "title": "Best deals on electric cars ahead of Diwali",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWpyU2NySzBZdXdRZWREb0FzMHNTbUlLYzVwWWN4Nk1QaGZWUm01SUpkb18zeENjLWRNWVVBTjA3MnUxWjlLd1BzaDExSlZRekxVZE5JTmluMzJaSlZNdUl2aFZTNWxPS1IxZU9aNEFTNng0RGlFaE1tM2FkaGw0SXVqTXZVeE5uaF9Bb2lGQlc2Zkp5b0hr0gGXAUFVX3lxTE05anJTY3JLMFl1d1FlZERvQXMwc1NtSUtjNXBZY3g2TVBoZlZSbTVJSmRvXzN4Q2MtZE1ZVUFOMDcydTFaOUt3UHNoMTFKVlF6TFVkTklOaW4zMlpKVk11SXZoVlM1bE9LUjFlT1o0QVM2eDREaUVoTW0zYWRobDRJdWpNdlV4Tm5oX0FvaUZCVzZmSnlvSGs?oc=5",
+      "source": "Autocar India",
+      "published": "2026-11-01T05:30:18+00:00"
+    },
+    {
+      "title": "Tata Kuno Electric SUV Under Development - MG Windsor EV Rival",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NXJpWDl6bmFPVFNLTWRNSGkzbExtc0FLY3JYcXEzamYwTFVmNV8wc1hBUW9USEpXM0lfYnpJdHVjazNRVkhZcy1hbUFQemhKejZkNlZuMUlGZ25Zb2hCNVRYQnlZSUJIYS0ycnpYbHdfMHBYV1dZZA?oc=5",
+      "source": "CarLelo",
+      "published": "2026-11-01T05:25:01+00:00"
+    },
+    {
+      "title": "Mahindra BE 07 Spotted at Charging Station, New Details Emerge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzlHTkdPUFQ4amVVd2J4U2RXcjEyMldVUWViaGxWSlBlUjFJYlJjTm1WM1laOEhUdzBoWUNfTXFpVVY2TzQtRVo0dk1Ic21yRzEzVUdfbmdPYk85YzZqU2MyLTUzOWl0Qm5yQWhZQ1BDUkZtS0wtdF96YV9XTGtRQ3VsUExOMlpJX1pB?oc=5",
+      "source": "GaadiWale.com",
+      "published": "2026-11-01T04:42:22+00:00"
+    }
+  ],
+  "global": [
+    {
+      "title": "Moroccan inventor Rachid Yazami unveils ultra fast EV battery charging breakthrough",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVI4TVRYS011YjlCUFNVVjlBYm0xYy1TckNBOVZLSmo0REJIVXlQN2p6UTctWkNBMFZaUmFnNXdEc25CaHlwcFJKdFc4WnZsa3JMR285ZUJybzlpSmlZUDV4a0N1cUZZU2dFbTNGOU55dlRyeWhmSWZOUHpieDM5RWR3b240QkI1V1dNZG1NenB1Tm1VY3FB?oc=5",
+      "source": "Yabiladi.com",
+      "published": "2026-11-01T14:40:32+00:00"
+    },
+    {
+      "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0Ewc1VvNHo3YXZzNWh0RExCWm9VUUlMTEFGWkpDSEU0VTFpU3dQcWsyNkg2RXEtbDJJNXhkam9rNFgzZ0NsV3Ayakt2MVNhLTlyZHRKVGNGTXRZTk9FUzNibGJ0dGJaRm55c0VnRTYtd09VQzVJbWZoeXhyUWx0OWFQTWhCb0VEaG5HQ3pqVjl4ZlVJaE0xa2pjWW5CZw?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-11-01T13:25:00+00:00"
+    },
+    {
+      "title": "BYD Sales Hit 22-Month High as Pure-Electric Sales Top 300,000",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2dWWE1RQWM5VjF1N2JDemY3TElaaVcwWkNwWGFBc1lIV0RRUkk3STZkYkdVOGZIWWN3dVRZdzloUy1YQkpodkNORGhPWTQ2Sy03bUczaVlWaHgwTDhGOTVmZGRmWlo0NHBydWpOY0xuMmdDYjBhS01jTEliTUlnNEUzU3NXbTlQdkhPS0pIUnViUElIMUtyeDE1RQ?oc=5",
+      "source": "Electric Vehicles",
+      "published": "2026-11-01T13:06:00+00:00"
+    },
+    {
+      "title": "‘Bellevue is the king and queen of Teslas’: Gee says high costs hold Washington back despite No. 2 EV ranking",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2LVlBMlNRU0ZocGZoZTdQbU9ZX1BQaDhGVTRiQmNudFhLYmlESjZwV1hKOVBzYjVoWFc2MlRaRUxNRTVzLXFicWpZdkpJSDZidVNXTnV0aGNPa2tuMENqdm9rT0c3VHo5YWZMdnhoODktQQ?oc=5",
+      "source": "MyNorthwest.com",
+      "published": "2026-11-01T13:00:24+00:00"
+    },
+    {
+      "title": "Global EV report: The world electrifying at different speeds",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbF9MU29tbnFKX2EyNER3V1FIdWJCekZMOTRPRC14czNDVElLNDk2S3h4UTlMQ3NvM3lwMTVKWnNKNGRWRFFZS0FnRC14Z3VpbXVfRnNiVUFLQ1F3NVg4aVhSVFU4RnBBU3A1WUQ3RHkzVW1IVmx6OTk2ZGd3cDZSaVc1SmZnR1E?oc=5",
+      "source": "Automotive News",
+      "published": "2026-11-01T12:00:00+00:00"
+    },
+    {
+      "title": "China's BYD extends sales growth streak on strong exports",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21scll6NjBGOTVLUm15YmNsNE9saEN4SE1oLU4zV0VCWFA3dWlVV0tHM09hcUtKMmdsOGVHZGtSVzNvenVmRndlMml1eHVSUzBsR0JPNFI3SjVTdFRncURKX1RRdV95T2s3bzdKMmFtNUNNalVzaTNpdkpzYVZoVHVBYTItSWV1VXpmVTdZRmZyN3NZQnExcnlpYmlCTmNMQ3cxQVRwSE9oODJsLUF6Q0xfMk1JZy1VTWpF?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-01T11:39:44+00:00"
+    },
+    {
+      "title": "Solid State Battery Market Size, Forecasts Report 2026-2035",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UbnNiV3dXR0JtVGNXc2Q5X0o3RzlBUWdndHZrcjV2cGRzU3J0WlV3ZUZiV0lSM2RoZDE3OEdmSlRGaFJmNHZnc3ZjeHRlaktpSG5sTEN2T096MzhObUJKbk5OdVlvampYMTJRYlBoVU5Jajc2X3lJWUtSOA?oc=5",
+      "source": "Global Market Insights Inc.",
+      "published": "2026-11-01T10:18:42+00:00"
+    },
+    {
+      "title": "XPENG Beats Tesla in 2026 EV Satisfaction Study",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2lram84ZDRmbks2RFpQdkZpSTIta1Zka0VIeHQ5VVZ4TlpOLWlJMGtrX2ZvV01XVEw3YmtielNnQ2R4OHRfa1l5YkZ1eUdRdmpkQjVxd3V2Q21UQkJJQ09ldms3NWdBU3dCT3RpYWFldVFGT3JoWVptNF9tOGZNUF9ENA?oc=5",
+      "source": "Electric Cars Report",
+      "published": "2026-11-01T07:52:25+00:00"
+    },
+    {
+      "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1RjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-01T07:42:09+00:00"
+    },
+    {
+      "title": "Electric vehicle sales are plummeting. Will they soon become too niche?",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnQ4MU9nSmRuMHRYZHhjbGxEN3BFSTBRZHRYVUlCa2xQZk9fY28zVzhVQnhVQzZRWDZFSWFfUTVvN0NzTDhwUUtJV0ZSRDVwNDRTdEhsbFBYcHN4T3l2R1lrNVJtZUR2Tk53dDVPTDFYTXN6QU8tamVobDNUN0E1NktCYmtmMl80RWpQZlJzb3hRLTBYZExPTm930gGfAUFVX3lxTE1hbE1BZFZUcFQ1Vk9JOExLM3JBY1lLZFNMOTRVR1hJZEVjT0Myenc2dnZOcDBYTU9XNm5uVXUxemtHY0JURnlrbjU0NWZlVVJ2aXZ2VFk1SURhRHBZaDVFaGVjV3dKWFp5Vlowc3BZeHN5QldqNG1jWTNmOE52enB1V2gta1lJcV9ZSmhYVmdVcWhvWGFVUklJNldMRVFtRQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-11-01T07:06:52+00:00"
+    },
+    {
+      "title": "I Was Worried When My Parents Went Full EV, But They Proved Me Wrong",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3NZdEhYSlhIV2FrdlljTFgtMUNJN2RfN0hxLWVPOG9meFlBQjNsMEtwQy0zc2FTdW42akxnM2JXM0tveFJnX1ljZjNIb2hOLUF4WlNJZWQ0VjZMajB5bklTVk1TcWhRT1h6LWRhZ3hfbUdFM2pZNDlQV281UQ?oc=5",
+      "source": "InsideEVs",
+      "published": "2026-11-01T03:49:53+00:00"
+    },
+    {
+      "title": "New Census data reveal a homeowner-renter divide in America's electric-car transition",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81Z1k5S1RBVGJGUER6c3l0SDJHcWUxMjRzWFFTUGt3d0ZxMFEtWFd6T0h5ZzRQTUc5NTJGdmhxbjJYbGxKRzgwVGptVk1lazRmQjJYNko5ZVFzcXUwQ3g2d2dHSTJva05QeW9ubWV4RGJRMy0tcmEzcUFR?oc=5",
+      "source": "Axios",
+      "published": "2026-11-01T01:34:25+00:00"
+    },
+    {
+      "title": "Southeast Asia’s EV boom sidelines local car parts suppliers",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUtsNmFzNjRjNlJyM09zT3BqWkVjMEMzcmxlbGhxMkZwU05CbFNQSU80UVJ1OW1ZU0hDV21HU0lrSmtLdXp4V09OQjlQWGhrWmQ2ckRjY1Z1Z1NMMTFmYldQdE9wYml4dGt6dUtDNVduaVJMNy1CbUgwR3NEM0JucUpybHppSzJLUW5UdFA3V0VDb0lZd2hKbFhWcll5bEhpMWx5M21IdVotNG03OXFsV3JISnpvcknSAbcBQVVfeXFMT0dwWnJpNm9DSHJhUmEzNG0wZU51T2ZSN2JveVJRbGZvNGFrc184dndHQjNBY3R0b2V5N29JdXM3eXNWcDVGb3RWbzF3NDhERVRoTmNHeDBXY0N4Vm5XUFE3R0VRUnhtZklFWG14MERFdUJlRWk3SXFoa0hTdWoxQ2NkbTFla0NBVXF0blRFLWhRZFM2RkhFaC1kWklwVVd1eTZrT3Y3Slg1VGdMMlVGUzJKRExKRl9J?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-11-01T00:00:10+00:00"
+    },
+    {
+      "title": "Frozen To -22 Degrees, BYD’s New EV Just Charged To 97% In Only 12 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWNwWUxlRmc1SlJnOXhmX3hQT3FnZW9vdU1CMjItOHN6bUtLelRrMWpyb1lUMkxybXVuSTREWDhfMU9ZMV9wVkEySHNVTWJLOHUtSFd6TTgzbzlhUkJrWk5sd2kxVTlPLUxVd3BqRzh1WEI1Sy1hUkhmMldoeFJmVQ?oc=5",
+      "source": "InsideEVs",
+      "published": "2026-10-31T23:05:03+00:00"
+    },
+    {
+      "title": "EVs Slashed Global Fuel Consumption Massively In 2025",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzX2s1TXprZnpOTzh3M0JReHVPNnBISHJnajlxejVud2w4cmdobUhDQzA1U3Uza2NBYTlGLTBBY1VEellUbWQ5TktnZXFrbkJ0ZWRKREZKdG5pajJSVVc2NXFoVU83OUduSWctTURyUk9kS3c?oc=5",
+      "source": "InsideEVs",
+      "published": "2026-10-31T23:00:13+00:00"
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "Ultraviolette Launches X-47 Venom Electric Motorcycle at 265,000 Rupees",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFB3M0Q2SDdjUkMtNkNoV3B1ODBSRERhaVY0LTEzNGl2Z0JqVkhtTXZxV0p5TDR6Y3dOcHpWekpiX2xsRmhpQUFzNDNHTk9jcC1OWU9NRWpWVE53Q2dNLW1FRUhCRkw4aGF5bXVSUWIxYzN3Z2EwMXFqSExzRTRNZFd6d05nejIxZ2FkS0M5X0hIZkNYcHpJQU13?oc=5",
+      "source": "Retail News Asia",
+      "published": "2026-10-30T22:07:30+00:00"
+    },
+    {
+      "title": "Tata Safari EV, Hyundai Ioniq P, VinFast VF5 And Mahindra BE7: Upcoming EVs",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWZxcnp4YTM5amlSQzNLTDdIT0lNajNxcndfeHdJV1NIejI1QVZDWVpjVkpxaXl2RzVhbm1MZ1ZJMFFKYXZNTDFjVENuWVRzUFN2OFctcno3NGRnendtZnpfdDFpeWdaSk9XQmFSR0ZHYlJIdWdjdjNTNjVVZ1BKSUg1MlAzd2I0c0V0dV9nY2NIYk1KTHZtZm5qNmYwZnFQQkNNU3d0ZjJlLVJ1TnNV0gG0AUFVX3lxTE9PaTVFWFZ5SmhOdVhaVmZWaUdsT1hiZlJsVVZQekhrM3RxZm9nZUxQOFVsaTU3cGhpLWVHRTl1TENHakxVYWpQZ0plTmlIWDJteFpxQ2lUMklnNmZ0Q1ZZVkd1dk9tYWROT0JKNE5JNmNYbmFqQmpqLXloTmVvd2pEMFRMMVh2cTh1SGJRU0szd3Ywa2FuT3A1S0tjemlFb3pvLU1TLXZBbjU1OVZhQndUVG56RQ?oc=5",
+      "source": "ABP Live English",
+      "published": "2026-10-30T16:46:02+00:00"
+    },
+    {
+      "title": "VinFast VF5 Facelift Patent Shows New Design Ahead of Possible India Launch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjI2SDQzQjM2Q19LTTdTYjhHQmF6SzI4Y243bkVVWUJ4TFZkeVQzY2tha3ppeE02d09qZ3VzSXcycThjV2Zva3lHZEdvVmM3WmdLZ3hDZEdqcDdWNWR4ZFA3NnllQmhBZndMLWQtcXE4aDJJeDBQRHhXV0FIMWxCakRlSnhQdmhPd05BVGFRcE1PcGN3OWI4a2g2RkNZT2JnNE5yS09uaWdNWFBYcW8zYU5OYXEta3NoSUt3?oc=5",
+      "source": "autoX",
+      "published": "2026-10-30T11:32:13+00:00"
+    },
+    {
+      "title": "Hyundai's new sub-4m electric SUV could be called Ioniq P, launch expected in 2027",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb09yTnNDOHBySERIZHFpR3dlY1VjSVBaYkROU2ExUzBOYmtRMjFEaWpRdzVQRkdhV3VOOUg5U3I2YTBJU0ppV3hhYTJweDRUUjZQZGZTOV8yZDl6ZHRoMzZyLWxyU3JIRTVyOHdKbjUxczVYbDFnOUZ3WF9GWGxYZFhQOU8tNm9lb1NuMTNHb2x0VGtJY284bXcwbzA4VFRTamJEdEM4azBEcG9iTkJDZHJiZ1FfLTNtQzB6eG54UVI2VVhDMnZOaWxKbi1OdE120gHWAUFVX3lxTE1neFF6OE03Tk9DSDY5OTRQS2NNbWRSMTNLSjk1a1JkRVY1YVdLZmFSM1BpcFNhT1RPYU96UjVPUFNxb0hCT2JnODV5YnFCNzAxaUtGRTVZaG1jeU5sVXI2Y09tRUNzRW5VZ2tsSmZMXzZ0bjBuREl4YVh4X2poVHFmWE9tckxrTjIwTzdGbmx5T0xqM19DZkpGdVJwcjFaQjZKUFcwTXJsTFkzLXQ2WGg5SmNYNi1tY1BIQ2RrTTZld2FBMDh3NVVvc3FpZGNobWVhUEtvd1E?oc=5",
+      "source": "Livemint",
+      "published": "2026-10-30T06:29:27+00:00"
+    },
+    {
+      "title": "Hyundai's upcoming sub-4m electric SUV likely to be called ‘Ioniq P’",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLWhwdWZXdmhHdWpDbDQ1d2VkX0o0LV9DZTk0NG9CQ0ZDWF85ZkJXdXpHTE9tX1R4UUxqT3dVdFhMamJ5d3NicGRZMktsclRNMVpDU2xhNEV4WmJMbHJzX3EyZGVMMGJHMnM2QWZwQ1JpMmF3eXdISVRfcUo5Y0NfRHRYTWlieUlMenFMT2dCS1FNUFNnbTlJd3lPcnBDem5uVUdlR1ZXZ0JZLXpYQWVoaTB3UE9aa1A3YmxvaWdIcjhyNG05bXRudXluQnI3MHlfbW81djg0X2lnTVNJ0gHcAUFVX3lxTE8taHB1Zld2aEd1akNsNDV3ZWRfSjQtX0NlOTQ0b0JDRkNYXzlmQld1ekdMT21fVHhRTGpPd1V0WExqYnl3c2JwZFkyS2xyVE0xWkNTbGE0RXhaYkxscnNfcTJkZUwwYkcyczZBZnBDUmkyYXd5d0hJVF9xSjljQ19EdFhNaWJ5SUx6cUxPZ0JLUU1QU2dtOUl3eU9ycEN6bm5VR2VHVldnQlktelhBZWhpMHdQT1prUDdibG9pZ0hyOHI0bTltdG51eW5CcjcweV9tbzV2ODRfaWdNU0k?oc=5",
+      "source": "HT Auto",
+      "published": "2026-10-30T06:14:38+00:00"
+    },
+    {
+      "title": "Upcoming Cars in November 2026: GLC EV to VinFast VF3, 7 Expected Launches",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NX2hicDhKb3JBcmRqSFJBZUZiazhuUlBETTVYNEZfdExMSElNNFBmY2lvZnd6MlpzRmFBVmJSdWlzdnJjVTBVZkpncTg0WjhodS16eW5HTmpPWDQ0ZVFiUmQySVd2YXN2MWVvV0VSc3dXWGVK?oc=5",
+      "source": "Auto India Daily",
+      "published": "2026-10-30T04:58:10+00:00"
+    },
+    {
+      "title": "Hyundai Ioniq P Could Be the Brand’s Most Affordable Electric SUV in India – Launch Expected in January 2027",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEs0SFAyTElKZ0pHWlpoQnZfVHhCbkIzSVFlSjBTODQyZng0b3M2a2pKVk02TzdvNDhEenlGTnVDdlUxei1kQmZJZkFwTDdaR1ZkbGtPSXpUSTNiWlNjenhRWTdQdXVZZ3laVXcweHMyTkRWZm0xMGFvaWVFMWl5VENQb0FjRjRHSThqVg?oc=5",
+      "source": "Autopunditz",
+      "published": "2026-10-30T04:09:43+00:00"
+    },
+    {
+      "title": "Hyundai Motor Company Announces Compact Electric SUV ‘Ioniq P’ for Indian Market; Unveiling Likely Next January",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FUmM4eE1TZWdQSU83UGlGUWxNakNrTGwxc1VJY2hIbWx2cG41UlpFMGR3NTg3ZWZaYVo1VEFVZWNsWjJzdU1FZkllTjFMcjNicVBsdldVT20?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-30T03:31:01+00:00"
+    },
+    {
+      "title": "Hyundai Sub 4m EV For India Could Launch As Ioniq P",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWNuLURQM09KTG5YS2xZbDI3amJEQnJzWWMzVy1UcDZrRnBwcVVlMGVzcEltLWJkaHQ2MTh4U24zeFhpV3BheFdWWHJFck9uRmJnT0I1aUxoOG0wQzd3eXNQVk1faGYzUzFjSmNXdmJ3NmtWV0FydnFYRmxNWFlqV2tDcUFQaXlkM0dEMFZtUWVjVFBNUmx6cnZB0gGaAUFVX3lxTE81Y24tRFAzT0pMblhLbFlsMjdqYkRCcnNZYzNXLVRwNmtGcHBxVWUwZXNwSW0tYmRodDYxOHhTbjN4WGlXcGF4V1ZYckVyT25GYmdPQjVpTGg4bTBDN3d5c1BWTV9oZjNTMWNKY1d2Ync2a1ZXQXJ2cVhGbE1YWWpXa0NxQVBpeWQzR0QwVm1RZWNUUE1SbHpydkE?oc=5",
+      "source": "RushLane",
+      "published": "2026-10-30T02:56:37+00:00"
+    },
+    {
+      "title": "Hyundai Ioniq P Compact Electric SUV Launch in Early 2027",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1dXcVJTM19ldDU4N1pFYldialpMRkJLNDlqUm1PbDNvNjFMd2YxS2VnOUZTWWJzRU1QSEl6MmlmeUlKSmUxeGhJOFhhNl8tNElDMkI4UmhYRmZZb2FrcEZFNjJWaXhsVnpDclN1M0o0dWVmeFVmTXgya0tLQUYyLVV2UTlDY0ticW0zRmRwYw?oc=5",
+      "source": "CarLelo",
+      "published": "2026-10-30T02:54:37+00:00"
+    },
+    {
+      "title": "Crewe Volkswagen to Unveil All-New Electric ID. Polo During Exclusive Launch Weekend",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYS1QQnEzTEhOTTRkTlNTRlhPTmMwMzhBYjFPXzAzaUZVb2dYejdBa291U0M4MnBDZFFaTGtXSk4xVm9RMHRyUEQ1S2VndzNRcVgwdFNNZ3dlVkJrQUU5VWVycXRPZFhaSHRsRWUwVlg2X1pTcWowajFONE1XdXA0YWRaZlJfSkNxYkxheUp4MW9lalhDWGJYVzRJUlJpSWtrLXAxVldoMV92eGZWZHktbkFPdkRPMEFnRldqUzlBSnhfdk11WXBGanFYSzFNMFJfQWtISVp3Rmw?oc=5",
+      "source": "Crewe Nub News",
+      "published": "2026-10-29T18:36:30+00:00"
+    },
+    {
+      "title": "Tata Safari EV Expected to Launch in January with Powerful Battery Options",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUk5ZzFVUklhQVhLR3NOa3FaMWxLVFZVZkVqLUJiN1JhZFlDZmVpRlNxRlFIS3dzT3dwUGM3QXhYMzFqTk5Pd2pTLUlpRDdPR1I5NmEwSDRkQV8wR0lUdjk4ZFpueWVvM3JodjhONnA2UnNQNVY4T2JFSnJRTENsTVYyd2dpWjJfUTE3b1hWUmhPNkZpTWZMRzRiWGxMa0ZubGc?oc=5",
+      "source": "Udaipur Kiran",
+      "published": "2026-10-29T07:12:51+00:00"
+    },
+    {
+      "title": "Honda to unveil more affordable new electric SUV with 650 km range in 2027 – report",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEp1d2RNX1NJYm95S1dRRi1WWkxKYmh3eXRUSWRULXpHZjFPd0J5elZGRE84Y3B3TXYtc2diTTViYmRaZ1Z4UXJhTFduN2N6SWNacGpVNUFCclhIV1hnTVdxblpHejF4clhHNkNLVjBFWUNTd3dvQ1ZiWHJwbVhnQVQ0QUVJa2NlT2N0ZGF2T1lvMVJOYzU4dnJqem91Y2tGaXZHaTNEa0FyelRfRE5jcDJ4S3RKR0RTWDhwUlZEcjA?oc=5",
+      "source": "Carmag South Africa",
+      "published": "2026-10-29T04:49:20+00:00"
+    },
+    {
+      "title": "Safari EV To Kick Off Tata Motors' Launch Blitz In 2027",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckdnaXpFRkFLc1d1M0F0dVdaMGZlWW9UQ28zakNRNXFQWmlpanZ1ZS1pMWV2ZnhWMmFJM09RWE1SX280MVNzdlZvaEM1YjQySERmMXNxWDMxNnIxSGNZSHhsVExUSFB0MVpUbEFoMVRiVUVCWjRlMEdZbFBQZEd3M2hzWE5ZdDhs?oc=5",
+      "source": "Cartoq",
+      "published": "2026-10-28T12:52:54+00:00"
+    },
+    {
+      "title": "Hyundai's Next Big Launch For India On Video: It's An Affordable Electric SUV",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rTHUyUGI5bjktZzlVS2tkNjRWU282VzFuanp4TXByM3RfcGdlWEZUa3ltbGpieDlLZEVNZVppNkZkTjhnNklDenF1WVpLQkpPeW1QWjk1OEZpdkRTMkUwbkQwS3BkVjFwWXEtU0FzLTRfa2VuRXN1emF3?oc=5",
+      "source": "Cartoq",
+      "published": "2026-10-28T11:42:08+00:00"
+    }
+  ]
+}
