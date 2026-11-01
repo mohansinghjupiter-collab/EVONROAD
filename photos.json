@@ -1,0 +1,231 @@
+{
+ "generated": "2026-11-01T08:49:58.354Z",
+ "models": {},
+ "variants": {
+  "ampere-nexus": {
+   "Nexus EX": [
+    "images/ampere-nexus--nexus-ex-1.jpg",
+    "images/ampere-nexus--nexus-ex-2.jpg",
+    "images/ampere-nexus--nexus-ex-3.jpg",
+    "images/ampere-nexus--nexus-ex-4.jpg",
+    "images/ampere-nexus--nexus-ex-5.jpg",
+    "images/ampere-nexus--nexus-ex-6.jpg"
+   ],
+   "Nexus ST": [
+    "images/ampere-nexus--nexus-st-1.jpg"
+   ]
+  },
+  "honda-activa-e": {
+   "Activa e: Standard": [
+    "images/honda-activa-e--activa-e-standard-1.jpg",
+    "images/honda-activa-e--activa-e-standard-2.jpg",
+    "images/honda-activa-e--activa-e-standard-3.jpg",
+    "images/honda-activa-e--activa-e-standard-4.jpg",
+    "images/honda-activa-e--activa-e-standard-5.jpg"
+   ],
+   "QC1 Commuter": [
+    "images/honda-activa-e--qc1-commuter-1.jpg",
+    "images/honda-activa-e--qc1-commuter-2.jpg",
+    "images/honda-activa-e--qc1-commuter-3.jpg",
+    "images/honda-activa-e--qc1-commuter-4.jpg"
+   ]
+  },
+  "matter-aera": {
+   "Aera 5000": [
+    "images/matter-aera--aera-5000-1.jpg"
+   ]
+  },
+  "oben-rorr": {
+   "Rorr Standard": [
+    "images/oben-rorr--rorr-standard-1.jpg",
+    "images/oben-rorr--rorr-standard-2.jpg",
+    "images/oben-rorr--rorr-standard-3.jpg"
+   ],
+   "Rorr EZ": [
+    "images/oben-rorr--rorr-ez-1.jpg",
+    "images/oben-rorr--rorr-ez-2.jpg",
+    "images/oben-rorr--rorr-ez-3.jpg"
+   ]
+  },
+  "tvs-iqube": {
+   "2.3 kWh": [
+    "images/tvs-iqube--2-3-kwh-1.jpg"
+   ],
+   "MillionR Special Edition": [
+    "images/tvs-iqube--millionr-special-edition-1.jpg",
+    "images/tvs-iqube--millionr-special-edition-2.jpg",
+    "images/tvs-iqube--millionr-special-edition-3.jpg"
+   ],
+   "S 4.7 kWh": [
+    "images/tvs-iqube--s-4-7-kwh-1.jpg",
+    "images/tvs-iqube--s-4-7-kwh-2.jpg",
+    "images/tvs-iqube--s-4-7-kwh-3.jpg",
+    "images/tvs-iqube--s-4-7-kwh-4.jpg",
+    "images/tvs-iqube--s-4-7-kwh-5.jpg",
+    "images/tvs-iqube--s-4-7-kwh-6.jpg"
+   ],
+   "ST 5.3 kWh Flagship": [
+    "images/tvs-iqube--st-5-3-kwh-flagship-1.jpg",
+    "images/tvs-iqube--st-5-3-kwh-flagship-2.jpg",
+    "images/tvs-iqube--st-5-3-kwh-flagship-3.jpg",
+    "images/tvs-iqube--st-5-3-kwh-flagship-4.jpg",
+    "images/tvs-iqube--st-5-3-kwh-flagship-5.jpg",
+    "images/tvs-iqube--st-5-3-kwh-flagship-6.jpg"
+   ]
+  },
+  "ather-rizta": {
+   "Rizta S (2.9 kWh)": [
+    "images/ather-rizta--rizta-s-2-9-kwh-1.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-2.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-3.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-4.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-5.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-6.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-7.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-8.jpg",
+    "images/ather-rizta--rizta-s-2-9-kwh-9.jpg"
+   ]
+  },
+  "ather-450x": {
+   "450S (2.9 kWh)": [
+    "images/ather-450x--450s-2-9-kwh-1.jpg",
+    "images/ather-450x--450s-2-9-kwh-2.jpg"
+   ],
+   "450X (2.9 kWh)": [
+    "images/ather-450x--450x-2-9-kwh-1.jpg",
+    "images/ather-450x--450x-2-9-kwh-2.jpg"
+   ],
+   "450X (3.7 kWh)": [
+    "images/ather-450x--450x-3-7-kwh-1.jpg",
+    "images/ather-450x--450x-3-7-kwh-2.jpg"
+   ]
+  },
+  "ola-s1-series": {
+   "S1 X (3 kWh)": [
+    "images/ola-s1-series--s1-x-3-kwh-1.jpg"
+   ],
+   "S1 X (4 kWh)": [
+    "images/ola-s1-series--s1-x-4-kwh-1.jpg"
+   ]
+  },
+  "bajaj-chetak": {
+   "Chetak 2901": [
+    "images/bajaj-chetak--chetak-2901-1.jpg",
+    "images/bajaj-chetak--chetak-2901-2.jpg",
+    "images/bajaj-chetak--chetak-2901-3.jpg",
+    "images/bajaj-chetak--chetak-2901-4.jpg",
+    "images/bajaj-chetak--chetak-2901-5.jpg",
+    "images/bajaj-chetak--chetak-2901-6.jpg"
+   ],
+   "Chetak 3201 Urbane": [
+    "images/bajaj-chetak--chetak-3201-urbane-1.jpg",
+    "images/bajaj-chetak--chetak-3201-urbane-2.jpg",
+    "images/bajaj-chetak--chetak-3201-urbane-3.jpg",
+    "images/bajaj-chetak--chetak-3201-urbane-4.jpg",
+    "images/bajaj-chetak--chetak-3201-urbane-5.jpg",
+    "images/bajaj-chetak--chetak-3201-urbane-6.jpg"
+   ],
+   "Chetak Premium 3.2": [
+    "images/bajaj-chetak--chetak-premium-3-2-1.jpg",
+    "images/bajaj-chetak--chetak-premium-3-2-2.jpg",
+    "images/bajaj-chetak--chetak-premium-3-2-3.jpg",
+    "images/bajaj-chetak--chetak-premium-3-2-4.jpg",
+    "images/bajaj-chetak--chetak-premium-3-2-5.jpg"
+   ]
+  },
+  "hero-vida": {
+   "Vida V1 Plus": [
+    "images/hero-vida--vida-v1-plus-1.jpg",
+    "images/hero-vida--vida-v1-plus-2.jpg",
+    "images/hero-vida--vida-v1-plus-3.jpg",
+    "images/hero-vida--vida-v1-plus-4.jpg"
+   ],
+   "Vida V1 Pro": [
+    "images/hero-vida--vida-v1-pro-1.jpg",
+    "images/hero-vida--vida-v1-pro-2.jpg",
+    "images/hero-vida--vida-v1-pro-3.jpg",
+    "images/hero-vida--vida-v1-pro-4.jpg",
+    "images/hero-vida--vida-v1-pro-5.jpg"
+   ]
+  },
+  "river-indie": {
+   "Indie 4.0 kWh Standard": [
+    "images/river-indie--indie-4-0-kwh-standard-1.jpg"
+   ]
+  },
+  "revolt-rv400": {
+   "RV1 (Budget)": [
+    "images/revolt-rv400--rv1-budget-1.jpg"
+   ],
+   "RV400 BRZ": [
+    "images/revolt-rv400--rv400-brz-1.jpg"
+   ],
+   "RV400 Flagship": [
+    "images/revolt-rv400--rv400-flagship-1.jpg"
+   ]
+  },
+  "ultraviolette-f77": {
+   "F77 Mach 2 Standard": [
+    "images/ultraviolette-f77--f77-mach-2-standard-1.jpg",
+    "images/ultraviolette-f77--f77-mach-2-standard-2.jpg"
+   ],
+   "F77 Mach 2 Recon (10.3 kWh)": [
+    "images/ultraviolette-f77--f77-mach-2-recon-10-3-kwh-1.jpg",
+    "images/ultraviolette-f77--f77-mach-2-recon-10-3-kwh-2.jpg"
+   ]
+  },
+  "ampere-magnus-reo": {
+   "Reo Li Plus (1.9 kWh)": [
+    "images/ampere-magnus-reo--reo-li-plus-1-9-kwh-1.jpg",
+    "images/ampere-magnus-reo--reo-li-plus-1-9-kwh-2.jpg",
+    "images/ampere-magnus-reo--reo-li-plus-1-9-kwh-3.jpg"
+   ],
+   "Magnus Neo (2.3 kWh)": [
+    "images/ampere-magnus-reo--magnus-neo-2-3-kwh-1.jpg",
+    "images/ampere-magnus-reo--magnus-neo-2-3-kwh-2.jpg"
+   ],
+   "Magnus EX (2.3 kWh)": [
+    "images/ampere-magnus-reo--magnus-ex-2-3-kwh-1.jpg",
+    "images/ampere-magnus-reo--magnus-ex-2-3-kwh-2.jpg",
+    "images/ampere-magnus-reo--magnus-ex-2-3-kwh-3.jpg"
+   ]
+  },
+  "bgauss-c12i-d15": {
+   "C12i EX (2.0 kWh)": [
+    "images/bgauss-c12i-d15--c12i-ex-2-0-kwh-1.jpg",
+    "images/bgauss-c12i-d15--c12i-ex-2-0-kwh-2.jpg",
+    "images/bgauss-c12i-d15--c12i-ex-2-0-kwh-3.jpg"
+   ]
+  }
+ },
+ "brands": [
+  "ampere",
+  "ather",
+  "audi",
+  "bajaj",
+  "bgauss",
+  "bmw",
+  "byd",
+  "hero",
+  "honda",
+  "hyundai",
+  "kia",
+  "mahindra",
+  "maruti",
+  "matter",
+  "mercedes-benz",
+  "mg",
+  "oben",
+  "ola",
+  "revolt",
+  "river",
+  "tata-ev",
+  "tvs",
+  "ultraviolette",
+  "vinfast"
+ ],
+ "discontinued": [
+  "tvs-iqube::iQube S 3.5 kWh (Discontinued)"
+ ],
+ "restored": []
+}
