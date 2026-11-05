@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-04T21:42:20.308548+00:00",
+  "updated": "2026-11-05T00:47:37.670257+00:00",
   "india": [
     {
       "title": "Blackbuck EV Unveils ELON 3X — India’s First 15-Metre Multi-Axle Electric Sleeper Coach",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWxGNnAyR3YzR2xkaDJ1QlNsLTBBUGxjM3ZZcGZTM080bkwzTzZVRU5FYkozaFpQdnZtRkNyZk5pOGU4cmx3TVBhX0t4T2dGSGZDeEN5S3ZCUWFTOHpMSG1UMWJpaHVkQlNvT2N5ZmVDVThBSWxTYWd3QU5CbXBGSDhFd3VWeGdjRV9PVXptRndTQnRCZ3VfLTcxWEdaOEVqZVZsaW8ydGZYWE1mME96bXBRUmh4Yzg0?oc=5",
       "source": "Motorindia",
-      "published": "2026-11-04T21:01:18+00:00"
+      "published": "2026-11-05T00:02:29+00:00"
     },
     {
       "title": "Mercedes-Benz Electric GLC Production Begins in India at ₹78.50 Lakh – 711 km Range, Deliveries from November 2026",
@@ -94,16 +94,52 @@
   ],
   "global": [
     {
+      "title": "GM recalls 67K EVs for software glitch that can mean loss of braking",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOG9heFJxcjBQVW5US3Jlejd2eWJFWDVYNW1OZExwbUlsQ2c3NTU3Y0dmRm1lLU5fZGJ4N0lhX1F1MDN2TFNzY2NSYlBQRDllZTlVZDZQOEl6SkQ5RzBoUUpNYUV4Njk4RUdWTG5wQjFsU0s1QzVhTjd6OGZwcHl0LUNWLW03ajFNZl9HMEpGaTNYbk5nS1NxeGFZd0F1d1FRMXpqWFhHdFFpTVl0VUJuOUF4S05sMmVBTzVXM0oxUkdLR29QTE42aVllbUlvbFZfM3JGNXZudko2X25XVERScjlR?oc=5",
+      "source": "The Detroit News",
+      "published": "2026-11-05T00:39:00+00:00"
+    },
+    {
+      "title": "South Korea's Used EV Transactions Jump 54% as Tesla Model Y Challenges Kia Sorento's Family-SUV Crown",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LVVlMWdtLUJYTTNYOGZjSjNwbDI3WkZUVGNuenJzUFQwX214NjE3bERLcWtDTzM4elB5by1yTXp4X042eERwdldqUUc3Ymlxd0FTNWFCazUwbEdyVFdfSjN5M1FQUHoybkdDa2FWTjZOcERfMHc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-05T00:26:00+00:00"
+    },
+    {
+      "title": "5 Small Electric Cars With Better Ratings Than The Genesis GV60",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalhWTmlqcG5RVXkzR0xYODJaSFJNMFp3VGVuY1hpZmQtVXQzOW55dk51REplMFNub2l2cFBGLTEzM05TY0ItZVhJa185dHhnLXVlLXFMQm1BUUhJeXF0cWpUWU5PY1RfX29NY3Q3NHNfZFZiN0VPSWg0M2h4ZjBSSXNMWUxYZ01LZWk3bnVQQTQ?oc=5",
+      "source": "SlashGear",
+      "published": "2026-11-04T23:45:00+00:00"
+    },
+    {
+      "title": "Tesla leads UK electric vehicle market as EV sales surge 54%",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNm1NTzg2Y3ZjSjkwNDgzN1VIM3ozeDVwT0RUMVVCTThoWTZjNG1EWU9KeUh5NDRfZGlPaS10NXNHa2tzRWxpOWFjWHFxNW9fSGN3dzFGZHVIcm15bFYzYjI4TkZiV205UWUtN2hkeGZWZmsyRU95UTkxVEhIR3h4T21TQQ?oc=5",
+      "source": "Drive Tesla Canada",
+      "published": "2026-11-04T21:43:22+00:00"
+    },
+    {
       "title": "China Has An Iron Grip On EV Batteries. Here's America’s Plan To Break It",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzk2MFRBTjJpSk5xMDg0RnZJSl9md3Jhalp1WG02b0tXbWM2UFBFX0ZIOGtYLVdQcmV3MUZPNld0Q0FkbDJpUVBFUG5POTNWaDFKMC1hSFpoQ2p5aHBUa0R6OVh4b3g4aXdhRTlXQ05wRllnZG04d1NWNTA0NG84cQ?oc=5",
       "source": "InsideEVs",
       "published": "2026-11-04T21:16:00+00:00"
     },
     {
+      "title": "Ford Fathom EV pickup prices will range from $28,350 to the high $30Ks",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa09BUGZpY011bURSS3JSUWF2MXBLazBBVklwVW9ld1FKVUdlWHhzeHVnSGlNdF9BS3NPTjZPUDA1Z1FZLXlxUkE1T19fUUZVZmp1ME1TMFNJYXZ6bldma25vVmFlTnRwX19RUk04YWVtZ2lyNkNkV2ltdlh6YzFWbEkwTmd0VkxYd3lSTUIxdFY1Z2o0?oc=5",
+      "source": "Electrek",
+      "published": "2026-11-04T20:53:00+00:00"
+    },
+    {
       "title": "Electric vehicles took 32% of the new car market in the UK — InsideEVs",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDJIcXd2VFlQcXBHR3RrTHRNcU1TNkFVa1lzVnpxY18zTmU5cDVYUzJma2ZxWUlRWi14V3NLRG5ucnNCUWZvbHM3akFmYTJCQXR2U1I3MHlUZVpNeTNUS0o0ZUxWbUhEazVuNkdVbjdRUDBwSkREZWtXMkc4Mm5aODBOOFFCbFdBbFBfRVZJYl84blhRUmRWd0RIc3Q1bC1SY05N?oc=5",
       "source": "UA.NEWS",
       "published": "2026-11-04T20:48:02+00:00"
+    },
+    {
+      "title": "Tesla made the Roadster fly. Expert says its $25K EV mattered more",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hNkF5dUxWamNGeXE2SGozenVxbjJHZm1YSXB5UVFLQ2pzVUsybVA1YmFZN3ExREtyVklpeHMwNW02LU81X3g0XzNXajgwMGtva0Vhc3p0TkdRR0dqQUZRdUk4Y1FYcDFT?oc=5",
+      "source": "Raleigh News & Observer",
+      "published": "2026-11-04T20:39:00+00:00"
     },
     {
       "title": "GM Recalls Over 67,000 EVs for Potential Brake Failure",
@@ -116,6 +152,12 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0UxejN2a0dTRUMyX211RUl0dDNOSWxxaVFFNndhMjl5Y19lUHRER2JWUExDM2E0VUdjM01McEdlUWJLczFNeEgzd2ZTdVkzZVUtLWRNZU45WVgta0J0RWd5UlpqVk9IbU9iMWhmdVRGR1pCVFlEQTRGUmNwWkp0dmZxTUtXNDFHZmVUTEdJdEhTNlBJaUFQSDRPdWhUNWtqOTdlbURpWllMVzVKQW5F?oc=5",
       "source": "Cars.com",
       "published": "2026-11-04T20:17:44+00:00"
+    },
+    {
+      "title": "Hyundai Canada reports mixed EV sales in October as IONIQ 6 collapses to just two units",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkhKMkVwNVg1ekZ5QlVIV2hwbjBXUnktWUV4QmlsSHc2WXFpWVZVRlN1NWdXSW16eFhKa2tHb2gtVXF5SU9NZW5xakFWQnNnRnQ4cFdSUEVva2J4LTI3dkx5OWIzWFRRZDI0QXhHZGdUek4yX2RKSFlMckJfMkEyWA?oc=5",
+      "source": "Drive Tesla Canada",
+      "published": "2026-11-04T20:07:18+00:00"
     },
     {
       "title": "Egypt targets annual production of 100,000 electric vehicles by 2032",
@@ -140,48 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnEwa29XR1RKajl2Q2pVbEhSR25NTUMwbE9FaERBS1QxbGtvc1MwVnVvUzJhQ1Ftemc3MTcwU3NCUHlzQVE0V29fNFRMamdEME9ZdVJFX3ZPWWFmS2QxTXlfeGdWT3MwWlJqLTlEc0h2ODRwVWxhQ3l4THZ0b2p3ZWlpRW9DM1l5ZVpjdGt0b2RzNy1JWmVVd0hlaWNkZ3I0dDFOQzZKeW5xZmFfSG9aV3IwWC11bXZybUE?oc=5",
       "source": "BNamericas",
       "published": "2026-11-04T19:05:54+00:00"
-    },
-    {
-      "title": "Lucid Jumps 12%, Rivian Climbs 6% as Post-Election Rally Lifts EV Stocks; Tesla Slides 3%",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTZhdDYtTnhIS3d4d2pwZDJhWFJhZUgyREpmSlNpMXp6a2lGT0ZERHRnOG53WHNGd1pFeGotamJ6MnBDWmU4cW9SOU1TUlN4WHNvbjF6QjhxTUxyUzYwZmYzYzN3ekgzZDRpRnY4bW1lVm5oMGpfUjdMU3dkd0tSU2JjSU4wcjR1TGljcHBnTlk3b1UwYzJlUGQzUnpfYVJHdlVBM3BUVl92ODZ4V2JRSGlnX2VTOWxUQzNpMWdueG5qbDJIX0dF?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-11-04T19:04:00+00:00"
-    },
-    {
-      "title": "I Like Electric Sedans. But Riding In The Back Of One Sucks",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNMHlMV21tRFctTVUybklQaHVHQ2pvTGoyV0ZEN0Nob2JOZ2VQWFRFdmJ6LWdtcW1qYkN3c0cwN19ucThLd1N3TW93TzlLNGVzZFUtR0w1ZkVadjA1em9TcUtOT3lOWjFXU1lRejdod05JdWFfUTJTMXZB?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-04T18:54:00+00:00"
-    },
-    {
-      "title": "Illinois EPA launches Clean Trucks Program to help fleets switch to electric",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGY3VVVKcFJEajhXRi11dnB5bE1wUEhLWFV1TlFVeUlPM1o0WmRvcVpLWXF0d092TXVsRlBiOTJ1U3h3ZDlYcFlJTHkzYkpUZFoyVzFyM2dHY3pmWEVFNVMxeWVMNi13OERWSUZvdTNPNFlhWFpxNGV2ZUROU2lfOVlXUXpWbGdENzYtVW9oLW9zby00clRGVUdlYjdUXzVvN1o2Sy0zX3E?oc=5",
-      "source": "Herald-Whig",
-      "published": "2026-11-04T18:45:58+00:00"
-    },
-    {
-      "title": "Hyundai Canada reports mixed EV sales in October as IONIQ 6 collapses to just two units",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkhKMkVwNVg1ekZ5QlVIV2hwbjBXUnktWUV4QmlsSHc2WXFpWVZVRlN1NWdXSW16eFhKa2tHb2gtVXF5SU9NZW5xakFWQnNnRnQ4cFdSUEVva2J4LTI3dkx5OWIzWFRRZDI0QXhHZGdUek4yX2RKSFlMckJfMkEyWA?oc=5",
-      "source": "Drive Tesla Canada",
-      "published": "2026-11-04T18:44:34+00:00"
-    },
-    {
-      "title": "How EV batteries can help keep the lights on and clean our air",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXBodVZHY2ZjLTd6RnVmRXo3Q2Rlb205OEstcDM2OVdxMTZydmE1UldzU0hza1pxU1lFT0dPejd2U1ZuZTF0bWdSNGVQaWkxYVdCeHJySVpHRjVUVTVVNF9Bc2hIREpyRFFjc1RLV1RMRjFCYzlWX3ItNUdMdjVlTkxCSFpUR29wemlvWnFzY2NWUENCVDBURDNQVVoyZG8?oc=5",
-      "source": "Frontier Group",
-      "published": "2026-11-04T18:42:23+00:00"
-    },
-    {
-      "title": "Germany’s EV share hits record 37% as BEVs beat gas and diesel combined",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkVPLUliTFhGUDlTZld4amg4S3kxdnRJdFUxVGlEdXJlVEpLSFU5ZU03MGNPWVg5M3NSczQ4bG4tZDlEZzZRMXhmQnVwX1BRU05CdGpGdXJneVZqS1pqUHJmQlpqZ1dVZU52VjR6azRTUUhMVklRUS1NTzFmX21hNVFiUm1XeDA1RVE?oc=5",
-      "source": "Electrek",
-      "published": "2026-11-04T18:20:00+00:00"
-    },
-    {
-      "title": "BYD Sold More EVs in October Than the U.S. Did All Last Quarter",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkFGV05TQ055MVlCSXlLOHNZOWRXOXRjUWJDdmh2bkt5RTN4QzRObkZTWEk2M2xHMjhkMjlOeVhiTzQzT3ZtcVBDWHBvNkNxUU93em5VOVRRa1M4bURUVHpvRWN1czVidnRlQ2Vzc2t0QXhHR0hJS1ZVeUJ2SFowbkxzd1YtTldJR2U2ZnhFSW9UYzdLd3c?oc=5",
-      "source": "Gadget Review",
-      "published": "2026-11-04T18:12:34+00:00"
     }
   ],
   "upcoming": [
@@ -246,12 +246,6 @@
       "published": "2026-11-03T12:05:43+00:00"
     },
     {
-      "title": "Ultraviolette Launches X-47 Venom Electric Motorcycle in Europe at EICMA 2026",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkRaYmFGY2lIbXhlVlFlZm0yTWVwZU1peUhVczRiSkFsbm5IcWJ6N3g2MV9sQV9uVkpGTjVPNVFVSy1HVi1MdFd1YTNjVUFBRkFGdjRpWl9OOFNLMmRwa0xwRzJjQ0N1WEpYOGxXV0FpYVM3aHFDWDk2OU5aYlR2RzE4T2o3YzVORlRhaUVpRVo5Z0E4dV96eUN2V2lFRmk0a3pJRVJGNzdnX2hNUlJ1enFKck5OUdIBvgFBVV95cUxOck0yWi05MnU4aDRmZWxoemNrM01YcFBMejhiV3NjeF9GcnlCNnlqRnZFcW8yTFhxanNxWWsyWHk1VF9wemtSX01Fc2N5VDViYlhQVkpjekk3eGVPaVUyZWV5ekJuc1RUYlNMM1hlT0ZQdzZfRV93bnBQb2VfTXlKNUFiSUtLZWkyaGpWQjVOUzZOSGk4WDdNdFhvTk4weEU3ZHZhMy13cERhalN1M05NNUF5YkpvYXZzTEVGYTNB?oc=5",
-      "source": "Autocar Professional",
-      "published": "2026-11-03T11:58:33+00:00"
-    },
-    {
       "title": "Honda Alpha Is Brand’s First Electric SUV For India; Debut On December 2",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3JyNHFzSUJpTk51VFFheTlySEtGVWQ5ZjU3blNCc2Jpb1AwaUdqS09xX3BMbUpQN2c3MkFrbHI0ckdPRjhFVDhrb3ZtVjFZZHNzSUY2bHdhS3BVdWFiN2dCLTMxb3JyRUs3RUZBZ1BNUFpPV0o1T09FS1Y4bllqdGpGSWVMRFlUeE9RVW9ja3JrLXNLUGlPOVliMWpzLTFBZ29VNm0zLWlCMWF3eW800gG3AUFVX3lxTE52cXNwcVczZmVMMHJOY1hyRFIzVTRWUmdGVFF3aXp4Y2Q2eGdFOXZlT2xucnFHX0NKZE9Hb2l3UTdSTHBaWk96SjZXOHhhc1o1OEJCaVllUjh2WENfSmw3bzVXV3pGR0tPN08wRGlMbDZJT1pPQzdUU0tTNUNDREk1X1NJMklLY0dkNVVsdWFLb0lDY3N4VnhES0taZl9ZNE05X3lmN2ZIUGRKZjEtS040M19oV3ZKUQ?oc=5",
       "source": "carandbike",
@@ -270,10 +264,16 @@
       "published": "2026-11-03T11:40:09+00:00"
     },
     {
-      "title": "Honda's upcoming EV to be named 'Alpha'; will also debut new 'H' logo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTI2TE8xUmV4WVlGSGNHejMtWnhLSWtZbjNhQUc1RE16TzNyeFdzR0xRaE9TX2tGTUhaUC1UNGNYOG9KY3lUTWdoeDhWWTJtZk9PeEZPT0h0UW1Ed0Z0cjhIMkpud1BLVEpiOGJCblhHYnUxYU5VOTFvNU5HZlhXVW9MVEZ3XzhLaGZQSXZxVjN0UFF10gGaAUFVX3lxTE9MUUtST2huQm4yekNoSEU5OUdvUTUzV2FudHVIWGRfd2pZdUVVVkgzMzJCSU9KQkVmQ01UaTR4dFJUMGJxblRyRkE3c2Y4dktodDRRZmRvMFpPTU5MVE80c3d0TDVFOUxZVkhSaUlwVnY3Tk1uVE02c05IdUFnZ05MbjliVmlZQVY2Nmh2NjBLM3NQb0FJb0t5MkE?oc=5",
-      "source": "Team-BHP",
-      "published": "2026-11-03T11:32:41+00:00"
+      "title": "Upcoming Mass-Market EVs from Maruti, Hyundai and Honda by March 2027",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEt3VHZuZF9DdTl1czNMNC14UzU4Nld0WlY5WEJyMW1jclBQVURPUnF0aTRjY3p3ZGlPTjNadGJrclNuMDZVWFpFVzRFZ2p5X281NlJUTVBITFNMU19QWVZlSDNmOWpTWklpbzZlbHNZWU9XN3B6TWdnd2czTDZpN2Flc0M1Rmg5OS14dUxSU2Z6a0FGUHVQRzVhQnpqQQ?oc=5",
+      "source": "CarLelo",
+      "published": "2026-11-03T10:42:03+00:00"
+    },
+    {
+      "title": "Honda names first India-made electric SUV ‘Honda Alpha’, global debut on December 2",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTlR3WHQ1cUdfeWJyUHlrdmhCOXJtWDBCcTJ5alR6bEp4eFAyUENQb0VmS3hsdm95Y2UzQngwZXc0bUFRNUI1WUhXWmYzQ1lvOVRkaTF2d1Ruc0diOF9RdHg2dXRLOEotS1JJVDlVdS1QMWZrRnJGdGhocVJad2JCUS1ldzMxSDN3QURNb0V1Y0ZORjJwMDh6Y2JmRnRGNS1FYmYwRERxMHp4X2xIN1JaOFB5SllmYmFtNnE3QTdRMEo2MkFnY29iRDJSQmdZMnJVUG9Mc0JwYU01ZHhHdTdlUDRjRdIB6AFBVV95cUxPSlpSbUpYUUY0eTlGcVJSZE4wS0JZQ1d2elZEdWtRR09JOEtrVy1VRGd4LTlrY3JFTi1LNGMxeHVIanhwUUFXT0laeVltYWNSUVZ6VWFNVWI4d2Fva2tkLXZna0F0ZUJ5bWJmb1BhN0toR3gwVm5id2M2cFpvMDVGRWFyY1JqZHlwQXRMWlZ6alV1YUpWTXN6SENyTVVFZGFkUk9ZdW1XZEJNTjNGalBHeUljSmNTYkR1QVQ2aVNIVGk0WGJNajRrQlE3X2V5a2dxeDV2QTdpdnFxSHBVVHU4M2hkZ2tQOUtt?oc=5",
+      "source": "ET Auto",
+      "published": "2026-11-03T10:37:03+00:00"
     }
   ]
 }
