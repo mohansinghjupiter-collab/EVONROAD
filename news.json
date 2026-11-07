@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T06:43:38.205260+00:00",
+  "updated": "2026-11-07T09:38:28.510292+00:00",
   "india": [
     {
       "title": "[EICMA 2026] India's Ultraviolette announces the electric crossover \"X-47 Venom\" for Europe! Features 30kW max output and rear radar",
@@ -26,12 +26,6 @@
       "published": "2026-11-07T01:31:31+00:00"
     },
     {
-      "title": "Electric Car Registrations Surge 76% in October 2026; Tata Leads as EV Market Share Doubles",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFIzYnZ3SXdQekxoblJkUTJKQ2hmc3lsYUtSOUFkNU5teHZJNHJKMnE0alY1bW92dVRoSmpvc3hvc3RaZGdyaTdnYmNfa1UtTTNHR051c25DMW51R3N5Nlk0MkstcW15RWxNcGFLUDVjaXlSNld0dFg0bmtaeGcyX2JMMGZFcEZEMHYyZlNJT04?oc=5",
-      "source": "Autopunditz",
-      "published": "2026-11-06T22:03:28+00:00"
-    },
-    {
       "title": "Mercedes-Benz bets on India luxury demand, EV push; plans 12 new models in 2026: Inside the company's growth strategy",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRGVzQVNtdkltRDhDdm9vOGNiQXg3WjFOVFZ0ZEZNSjQwV3o4eDUzNUxZOFowd3lueVEtM2dRLUN5Xy1DQ1d2LUsybl9COVUyalltQkl5WGpNaC1yX3N2eDJNUU9EWmE2SEI1V29DX2V4V21UWWFuSDloQTBJSlFSX01UMUZBamYweXh3UHJwWVhZWHdCUmJhdUtzR0N1M21XcmdrazA3ZE5XcGNoQlV6MTcyVTlMN1ppam14UldDaVg2S0JQa2tQMVh5UW9zNFBPQTJNbDZ1SmptV3B4am42SkNvRGJ2TUZFaDk4d2NmQ2piOERWT2pZWEVvWdIBgAJBVV95cUxNZC05S20yMHBwelRTMjBacW84SmJSQzhZV1VoZWE5ODdSV0hoUFZCZTZyWTNwaDJSWXdRRFdaYWZCWWtQOFBKNlhwMFdoSkpDVHM1RXB2X3oyTFRWMlBnWThFUDNMNE5NMkU1bjFxT3pQbGNXSzNqQ1JTQUtWR1JnTHVlTlBSY3o4UUpwc1h0eDIxU0NoSGxwaFBjQkNtbUczcDhRMTk1VHZpeVhUcE9PVTB0YXFEMmNoZzUzazRNa1MyWlNBOTJaRGx1dnZlVkZucTdZZzJrNzgtN05SMmlQejFVVzZMcjM3U2J3YkVTcGNIY2JfWUJTcnNiNC1lOVFV?oc=5",
       "source": "Livemint",
@@ -42,6 +36,12 @@
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPb3ZBRFpranpXQ1lvX05YdVlfZUNuWGN1V21EcFV1MXJ0TXZmQXlxWmhXb05pcXlaQkRUUm02bVRfSDFkVTRKRHhvRlNtSk5razlMV0ppNFNZdm5kcFpqcFhEWkdZSXlSVVZWN2pfU0hBaWVKS2hxclhsM243c0VFN0R6czhlM09UaEhfdHpRYk12X3Q0R2c4cVRJU3JVSHJHMU9JM2F1RmZubnlfcXU5MFpscUc5YWYxN3BYZWlHLTAwWFpUWmI0cm5WTWVOWEpmbWM0eFBjYk4yUm0wUDhpUER3OWdPUGtrYmpYbmQxQ25MYkxPV2E3Um9LUXBuMG9zX085Zjl4WDVYeVQ5bFhWRC1aMGVLSzFYZGxfNFNNRTFWb1pDWjJaeFZFZ0NjQjJyMW13NFdZMDdLNHlLY0NOZzBlOS1lT0M4ckFV?oc=5",
       "source": "Fuel Cells Works",
       "published": "2026-11-06T15:05:00+00:00"
+    },
+    {
+      "title": "Electric Car Registrations Surge 76% in October 2026; Tata Leads as EV Market Share Doubles",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFIzYnZ3SXdQekxoblJkUTJKQ2hmc3lsYUtSOUFkNU5teHZJNHJKMnE0alY1bW92dVRoSmpvc3hvc3RaZGdyaTdnYmNfa1UtTTNHR051c25DMW51R3N5Nlk0MkstcW15RWxNcGFLUDVjaXlSNld0dFg0bmtaeGcyX2JMMGZFcEZEMHYyZlNJT04?oc=5",
+      "source": "Autopunditz",
+      "published": "2026-11-06T14:43:40+00:00"
     },
     {
       "title": "Electric Vehicles: New Opportunities for India’s Vehicle Loans Sector",
@@ -94,10 +94,52 @@
   ],
   "global": [
     {
-      "title": "\"The BYD Seal electric car is fun to drive, but charging is still limited.\"",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QNlowS1BZSHFkTF9KYU5vM1pKa2ZBZE1OSTlqSUs1OXY4X2hYTGJ2ZDZaSU9aR1QySUlzbC1OX01HaGVUN2xaNU5GUVZyN3BWMFl2QWxKZmYtcEYydGJDZjhVbS0yT0x4ZmNjSzVaZmRNYXhSN1kxbTJqdUpySHM?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-07T05:36:42+00:00"
+      "title": "BernCo Celebrates Opening of Downtown Albuquerque’s First DC Fast Charge EV Station",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanZab3h0YnNsSk9sc0VUVWhvc2hjZEJ0bE5HTkFRX2VPRFRkWWZuN3dKUnVHMGh0YzNRZl9WWnQ5TjBnTVE0NGNVS3dXcGN5Wi1SQ0VGckVZNUJnTVFYOFZsMm5nQzlUeFBYQkIxYUpIcUkyVWg4Q1J2bU9fcF9nV3ppUklDc2JBdkJBakk4SE56T0tTcloxeGJHMEl3enlaMWJrZi1QUElnZTNEeERrWU9NdU55LXhOZHNuRWMtNA?oc=5",
+      "source": "bernco.gov",
+      "published": "2026-11-07T09:00:00+00:00"
+    },
+    {
+      "title": "Tesla’s quiet EV software update is unplugging Australian homes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0UwTUlEQjRfRi14cUdacUJqaUswc1NkcmwwUmt3VkgxaXZ4Z0RyT3NZdkhrbk9FTjh4Ym5hbV81dnJOOURkMjlFRmVBcDJteTdhQ0Q2QkE0N1JEN3l2R2NvbThCek05eWtfWGMyZGFMUVhlMTRuUUdRVHJtWm9QeHJLTGVhVllXa094N1JFTWotc0FvaFQyTTBoUQ?oc=5",
+      "source": "The Driven",
+      "published": "2026-11-07T08:16:51+00:00"
+    },
+    {
+      "title": "BMW Confirms LFP Batteries For Some Neue Klasse Electric Cars",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JUVJxY2VmTXQwVjZYN3NGRldvNTZCTVJjT3JxZjdfc2VPSFJNbjVzSUlQbmNDSmF4bUwwY1Q3RVdNTVZFM0Qxc3dCREU4akdQNFJqQ05iR0ZSR09DMXhWQjh1Q2VMbDFZbXdTWmhGQVBBZVFmcUxpcnJXWGxrZw?oc=5",
+      "source": "bmwblog",
+      "published": "2026-11-07T07:29:05+00:00"
+    },
+    {
+      "title": "Hyundai Recalls Kona Electric and Veloster N for Airbag Software Concern",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3FlUUl5U0xVTmhhb0VrY1dMVlhmRC1FU3dkWFQyZTFiQ3lPa1d1M1RUUnBOOG9WWTB6aXVJd1Vnek1DMXB2M2xIY0lwbE9SMHZCTG9feXdqWTRDaE5zM0tmd1BpRjktdGlCaFNyWVluZ3JVM0VlbnFlTXBJSWg0S29QdW5pc01aZnk4MERuY0F2Uk84Zjk1YXZRM0JxYVRSSG5vU3AwRHVJUUhqNThaeG5lZ2JZdXo4WHY0?oc=5",
+      "source": "autoevolution",
+      "published": "2026-11-07T07:22:01+00:00"
+    },
+    {
+      "title": "Alpine A390 GTS vs Tesla Model 3 Performance: which premium fast EV is best?",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkc2UVhJcU9MNTRhOEgzeXRBUjU1TzJZRGlZZnE2cFpudUhOeHZFUXNsUlVQY1dVRzJOZmY5bklZamM2M2ZoWFMydl84ckUwTnh1YkVKS1d5OXZ0R1BSXzJITUVTME54WExKLUQ3dnJhX2F3ZDRhVHN6dmlYTlZMQ0gxWWFBbE1PWVpycHpfU2c5Q25RbzlqNDYyNUVWeWw2WFRxb2tYTEU?oc=5",
+      "source": "Electrifying.com",
+      "published": "2026-11-07T07:02:15+00:00"
+    },
+    {
+      "title": "Electric car sales surge but makers call for easier targets",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeS1NTy1ySGMwcm1WRkF6WFRXWng3alBGRllRZUZGMzVZRjdDV1VvLVBMSHdwWkJNYU5Fb2Rta1JtX2hhMWl4OGVVQ3JhalY4OFZMMlJKVjF1YkE5TC15R3hJcUVlQUxFYXl2Q1g0aTFYbUs1UFdvZ2NuVUI5bGwwWFdqUi1WZGphc0lZZk92RUkxTl92NmJwV0JzMUhzNEEwVktfbzVUbzM2aU1UNEdtbEVSWlR3RzJBS2JsWll4ZGRQTUpX?oc=5",
+      "source": "The Independent",
+      "published": "2026-11-07T07:00:00+00:00"
+    },
+    {
+      "title": "Is Trump About To Reignite His Big EV Push?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2hZOVpLM1IzTk9aS25BbnJ1QjExNjh3NmFCWWhpSkEyc0d5ZFRsNnFHa3h4SXdMS2NnSWd3anUyNUpmdnItZHU2eVRPMHIwZy0tMVU2eUd5b1hOV0xxS3N5aFhUNVN5WFJPUXZMZlM4V1kteFhSdG9IVjlLZmVVM1E4VlJwdkk?oc=5",
+      "source": "CleanTechnica",
+      "published": "2026-11-07T04:57:20+00:00"
+    },
+    {
+      "title": "I Drove The 2026 Hyundai Ioniq 9. It's The Electric SUV For Real Families",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XR00yVTY0dWJzTmJkN1B3SzRVcW1ZMC1nXzZxbDgyR082OGF6WnF5VEZWYXBHaW1rQTlkVm56SWNnNjBqYmJQZkJHblcwcHh3OFpKLUNlclpGMTFsSlNxbFVSaWpya3pyRWI5ajJB?oc=5",
+      "source": "Motor1.com",
+      "published": "2026-11-07T04:23:31+00:00"
     },
     {
       "title": "Fast charge electric vehicle charger unveiled in downtown Albuquerque",
@@ -118,14 +160,14 @@
       "published": "2026-11-07T00:06:22+00:00"
     },
     {
-      "title": "All the concept cars that became real EVs",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUGxRcGN2dF9ILV8zUGd0Ull1d3RMTGlYbS11REhudlBQWFVVMzNRcnZ6WDNGV3hiSF9BaGE4cXUwWFZ5N3pXcWh0YTZFcFZtUFRMUUtIZjVsRFZpeVo5ekYybUoyVEs0R3Yw?oc=5",
+      "title": "The Ioniq 5 is Hyundai’s first electric car that can charge other EVs",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxNmduVW0xSWdlOVg0N05zeVNqcnZldUs4Z2U2dURPTDZLOUhnS05hNFBLclJIal9nOGd5ZXZ2cmdISUVDMXpmVzZnSExib25OUktCck1DX25DRjhUbHZjbWF0UDRxeGxBdDVidmtKV3E?oc=5",
       "source": "Mashable",
       "published": "2026-11-06T23:00:00+00:00"
     },
     {
-      "title": "The Ioniq 5 is Hyundai’s first electric car that can charge other EVs",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxNmduVW0xSWdlOVg0N05zeVNqcnZldUs4Z2U2dURPTDZLOUhnS05hNFBLclJIal9nOGd5ZXZ2cmdISUVDMXpmVzZnSExib25OUktCck1DX25DRjhUbHZjbWF0UDRxeGxBdDVidmtKV3E?oc=5",
+      "title": "Tesla finally figures out how to make electric cars on schedule",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zcmNHa25MTE5sdkh4Z0t1MW1KTm5xQnd2aWJYdlVkTXZQSDJiS1FkZHFGRVVYeE9IYzBiRXlPWk9rbTB4SlNBcFY2dnVvWVZKZXVhNWpWSmE4WU1pWmZwNk1TYkNuTGsyeU9kS0hrMXhYU2s?oc=5",
       "source": "Mashable",
       "published": "2026-11-06T23:00:00+00:00"
     },
@@ -140,48 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTYyTFF4XzBSb2tRbVV0bFpwRkNXd2tBV2h1V3M4TlZ2bTJCUHdHQmk2LUhzcnRXMFJNNm04dzh3NWtLSlZKaEwyWmJhVWZKRHF0TzV0aXliTUxqeGdOUTF1d2JZSWdWY0F0dk56SmVsVmZiRl8tTzVSdk9OSG15QzdqTGh3THVlTm80SGg1c3BJU29MNC1xYkJUQll4cWZHZG9JVHh4QXdYUUw3UU5STHhB?oc=5",
       "source": "Nikkei Asia",
       "published": "2026-11-06T22:34:00+00:00"
-    },
-    {
-      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZMUJzNW5fQms2RDB0WGZzcmZJZlBQOHljM183MVRTaDVMaGt1dzIwcGJuTzAzTGVqRFo3ZUVTd0laNFI0cUpCNTM4ME1CSVVYMHZOandWekE0WWdmdGl0SmxBSnJvM0Y3OWJDWmZKQzk5Z0k?oc=5",
-      "source": "WIRED",
-      "published": "2026-11-06T22:31:00+00:00"
-    },
-    {
-      "title": "Ford EV Division Continued To Bleed Billions Through Q3 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWFhbm5Hb0NvQXo3TC1UVy1hMGdmT2pqeUZWZ2Z2eTJYUUlQTm9yWk9QR2RKY1VGdC1XUE1rQjZQd2lQVVotdldVbnZ5b1FZVlZmMEl0VHpmSUtHMkxJS2dfYnh3aTNYTV9ONC15Wlp2dExvamFhWS1oZTY0YXlGcmVVWmdfSk5MbDZVcGhkak1NdGtzcndOZFlpaw?oc=5",
-      "source": "Ford Authority",
-      "published": "2026-11-06T22:00:59+00:00"
-    },
-    {
-      "title": "I Love EVs, But Kia and Hyundai Are Making That Harder",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1lkRWN0M2x5UkJoWExRcG8ycW1DWmJlcGVoVWZkdkhBSHp0dUxHandKSjlWVUtUcTh2VzhFbzVzVWE4SDFNWms2bm9LMXhwNTZ2NnZ2SDlxMC1fNW9udnRmVFRUeHdHSTFhWWhYSUNCTUg4SUtXODVfUHlQRVdzdQ?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-06T21:54:48+00:00"
-    },
-    {
-      "title": "5 Takeaways From Q1's EV Sales In The U.S.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55N3pYR1Y2Z2FubFJ2X1RDaW00T2pmM3BHd2xUUldNN2Fkb0xzTXVldmdRWFRJbnAzTk1FZmp2SlEyRFdhUFB4b2NYRTNvSGozTDJMeWptZmtXem50NnNiRlZCMjRiOHBrdWRWWGlB?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-06T21:47:12+00:00"
-    },
-    {
-      "title": "EVs Slashed Global Fuel Consumption Massively In 2025",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzX2s1TXprZnpOTzh3M0JReHVPNnBISHJnajlxejVud2w4cmdobUhDQzA1U3Uza2NBYTlGLTBBY1VEellUbWQ5TktnZXFrbkJ0ZWRKREZKdG5pajJSVVc2NXFoVU83OUduSWctTURyUk9kS3c?oc=5",
-      "source": "InsideEVs",
-      "published": "2026-11-06T21:47:09+00:00"
-    },
-    {
-      "title": "BYD Yangwang U9 Xtreme Hits 503km/h in Abu Dhabi",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2MybGhYdzNvVHVkRGNENjlSRE51WGZLQkE2YXUwN1VodlFVRFVhQlJsbDd5c3RVMTBKS0NrMEVtU2ExZTVTRHlhT282RmFFTWVKWGIwRkZ1SWhWU0NSLUNsSmwySEd5bmxWWS12UURQYzJ1R0RoVUMxZnpmT3QwQ1p0bTl6SmI0RGlPU3d0bTR6VFNqSHdFeVlR?oc=5",
-      "source": "Torquecafe",
-      "published": "2026-11-06T21:07:32+00:00"
-    },
-    {
-      "title": "The Electric Yangwang U9 Xtreme Supercar Just Went Over 312 MPH on a Road in Abu Dhabi",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcjhfaDBwTTRRT1daOHpZUmcycDhPa0dneVV4SFlUVkpDajIwQ1haSkp6UmU4WEM2SnF4WndKVVgwUlFTT2NnemRYSDM3X21nM3RaWWxyUU9rQUFaaXpOWllrUThlV1VFRmZ3TkVSakJBdkhKNTZPZkVRWkZiYkZuczV5cnpCUDljLXFIRjVlTHRMSTA?oc=5",
-      "source": "Car and Driver",
-      "published": "2026-11-06T21:03:56+00:00"
     }
   ],
   "upcoming": [
@@ -258,10 +258,10 @@
       "published": "2026-11-04T10:19:01+00:00"
     },
     {
-      "title": "Mercedes GLC Electric launched at Rs 78.5 lakh",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV05zT1c4LWNEWVhrYjE1UFplSzVJQ1E0QnBFWUJvcUE1VkpHMU5sVHowRWJqMkpYSzRuN0s0Vm16N3N4TW9YWlZSRDFJNktQRFUtY1hlVE1VOUZNdXYwT3UwZXphNXdxNDJ6NE9id1RVMzlib1B3WHFhSG9LVUxMMFNkM3FxMGtLaDExU0RrX1ZJT2030gGaAUFVX3lxTE5YaUlLMC11VXZUZkQ0bzhScmw4SlZ5QmlWeWIwdl9QR3NnRUR1RTBvWWJwZnp0RjdwWkdNNWQtMWZyR2FtQ25OTE50ZHIydkVCVVdabGk4UmVWbzlTSzhOckVTLXZDTTRQQV9mdzNhbXJKX3U3dkJjMFdiQXdRVkdpR0V0ZzltS1EtLUhaVnpGajBlNHBjT2ZDY2c?oc=5",
-      "source": "Autocar India",
-      "published": "2026-11-04T09:48:57+00:00"
+      "title": "Mercedes-Benz GLC Electric Launched In India At Rs 78.50 Lakh",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUtPSlUtMndjR1EwRlFTY2xVODdMZnQyOTFINGhMTU8zS1hJTWJmSEhGR3BSTmlQdmdjd2Z4RHFkUEVycERyd19OeXgxTFJIQmFrSEJVZ0doa3FQTGRHcWF6R21Gemw0SV9mQmlWWDFCQndNRGpndkFZZFkwc1RyRlZ0UW5TZzRaSzJaNkhvRlZXbllGWTdVcHFpNlpuV2V00gGoAUFVX3lxTFBlb3FpZFlNaGtnNXRkbE5VdjFteGFSbnJEeXZtRi1Ud0JNN3BLa3FYQmVHd0hlMURoWFl2aUZHSktMXzJCbFFNT0VNN1dReHJCODhQYzY3VFl4elpqZEN5cWFfeS1BSUZCQlRmQVY4V2lra3hYTjNXN2VJYmNTVVFvdGVBdHZUdF9JQ1M5Zk1CUkx6WC1DTDJFNlhmMkVfRHI2Zl9mLXBLTw?oc=5",
+      "source": "CarAndBike",
+      "published": "2026-11-04T09:47:06+00:00"
     },
     {
       "title": "Maruti Suzuki’s Second Electric Car to Debut in 2027: Could Be a New MPV",
